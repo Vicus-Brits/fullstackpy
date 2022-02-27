@@ -12,3 +12,5 @@ You'll see the prompt changes from a $ to saying (my-virtualenv)$ -- that's how 
 $ workon my-virtualenv
 (my-virtualenv)$
 You can also install any other dependencies you may have at this point, like Sqlalchemy, using pip install flask-sqlalchemy, or pip install -r requirements.txt, if you have a requirements.txt
+
+cd fullstackpy/
